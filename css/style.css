@@ -2,4 +2,9 @@ html {
   background-image: url('../img/large-banner-image.png');
   background-repeat: no-repeat;
   background-position: center;
+  position: relative;
+  
+}
+html {
+  background-color: rgb(227, 227, 227);
 }
