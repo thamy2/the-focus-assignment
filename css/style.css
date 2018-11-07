@@ -2,7 +2,10 @@ html {
   background-image: url('../img/large-banner-image.png');
   background-repeat: no-repeat;
   background-position: center;
-  position: relative;
+  position: absolute;
+  width: 2131.968px;
+  height: auto
+
 }
 #heading {
 }
@@ -13,10 +16,16 @@ html {
   width: 2131.968px
 }
 
-#heading > div:first-of-type {
-  position: relative;
-  left: 600px
+#Focusimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 230px
+
+
+
 }
+
 
 #heading > div img {
   position: relative;
