@@ -3,8 +3,16 @@ html {
   background-repeat: no-repeat;
   background-position: center;
   position: relative;
-  
 }
-html {
-  background-color: rgb(227, 227, 227);
+#heading {
+}
+
+#heading > div {
+  position: relative;
+  margin: auto;
+  width: 2131.968px
+}
+
+#heading > div:first-of-type {
+  width: 230.1px
 }
