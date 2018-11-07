@@ -14,5 +14,12 @@ html {
 }
 
 #heading > div:first-of-type {
-  width: 230.1px
+  position: relative;
+  left: 600px
+
+}
+
+#heading > div img {
+  position: relative;
+  left: 550.048px
 }
