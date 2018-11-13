@@ -1,5 +1,27 @@
 body {
   background-image: url(../img/large-banner-image.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  position: absolute;
+  height: 700px;
+  width: 1601px;
+
+}
+
+
+.greycontainer{
+  position: absolute;
+  width: 1601px;
+  height: 422px;
+  background-color: rgb(227, 227, 227);
+  margin-top: 970px;
+  margin-top: 1196px
+}
+
+.whitecontainer{
+  position: absolute;
+  width: 1602px;
+  height: 700px;
+  background-color: white;
+  margin-top: 700px;
+
 }
