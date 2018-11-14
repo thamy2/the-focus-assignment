@@ -7,8 +7,12 @@ div{
   position: absolute;
   width: 1600px;
   margin: auto;
+}
 
-
+img{
+  position: absolute;
+  margin-left: 680px;
+  margin-top: 37px;
 }
 
 .greycontainer{
