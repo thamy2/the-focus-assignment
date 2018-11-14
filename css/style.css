@@ -1,16 +1,19 @@
-body {
+html {
   background-image: url(../img/large-banner-image.png);
   background-repeat: no-repeat;
+
+}
+div{
   position: absolute;
-  height: 700px;
-  width: 1601px;
+  width: 1600px;
+  margin: auto;
+
 
 }
 
-
 .greycontainer{
   position: absolute;
-  width: 1601px;
+  width: 1600px;
   height: 422px;
   background-color: rgb(227, 227, 227);
   margin-top: 970px;
@@ -19,7 +22,7 @@ body {
 
 .whitecontainer{
   position: absolute;
-  width: 1602px;
+  width: 1600px;
   height: 700px;
   background-color: white;
   margin-top: 700px;
