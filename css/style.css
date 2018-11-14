@@ -12,18 +12,38 @@ div{
 h1{
   position: absolute;
   margin-left: 760px;
-  margin-top: 47px;
+  margin-top: 100px;
   font-family: 'Pacifico';
   src: url('../fonts/fonts/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2');
-  font-size: 50px;
+  font-size: 70px;
 
 }
 
-img{
+#focusicon{
   position: absolute;
   margin-left: 680px;
-  margin-top: 37px;
+  margin-top: 100px;
 }
+
+#topphrase{
+  position: absolute;
+  margin-left: 455px;
+  margin-top: 235px;
+  font-family: 'Raleway Light';
+  src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
+  font-size: 40px;
+
+
+}
+
+#toparrow{
+  position: absolute;
+  margin-left: 770px;
+  margin-top: 330px;
+
+}
+
+
 
 .greycontainer{
   position: absolute;
