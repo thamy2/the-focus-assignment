@@ -14,7 +14,7 @@ h1{
   margin-left: 760px;
   margin-top: 100px;
   font-family: 'Pacifico';
-  src: url('../fonts/fonts/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2');
+  src: url('../font/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2');
   font-size: 70px;
 
 }
@@ -30,7 +30,7 @@ h1{
   margin-left: 455px;
   margin-top: 235px;
   font-family: 'Raleway Light';
-  src: url('../fonts/fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
+  src: url('../fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
   font-size: 40px;
 
 
@@ -43,6 +43,12 @@ h1{
 
 }
 
+#iphone{
+  position: absolute;
+  margin-left: 575px;
+  margin-top: 408px;
+}
+
 
 
 .greycontainer{
@@ -52,13 +58,4 @@ h1{
   background-color: rgb(227, 227, 227);
   margin-top: 970px;
   margin-top: 1196px
-}
-
-.whitecontainer{
-  position: absolute;
-  width: 1600px;
-  height: 700px;
-  background-color: white;
-  margin-top: 700px;
-
 }
