@@ -53,11 +53,12 @@ h1{
   position: absolute;
   margin-left: 295px;
   margin-top: 823px;
-  
-
 
 }
 
+h2:nth-child(odd) {
+  transform: rotateY(180deg);
+}
 
 
 .greycontainer{
