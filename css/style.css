@@ -49,18 +49,27 @@ h1{
   margin-top: 408px;
 }
 
-#whiboxheader{
+
+h2:nth-child(1){
   position: absolute;
-  margin-left: 295px;
-  margin-top: 823px;
-
+  margin-left: 277px;
+  margin-top: 750px;
 }
-
-h2:nth-child(odd) {
-  transform: rotateY(180deg);
+h2:nth-of-type(2){
+  position: absolute;
+  margin-left: 277px;
+  margin-top: 929px;
 }
-
-
+h2:nth-of-type(3){
+  position: absolute;
+  margin-left: 1030px;
+  margin-top: 913px;
+}
+h2:nth-of-type(4){
+  position: absolute;
+  margin-left: 1030px;
+  margin-top: 712px;
+}
 .greycontainer{
   position: absolute;
   width: 1600px;
