@@ -63,13 +63,37 @@ h2:nth-of-type(2){
 h2:nth-of-type(3){
   position: absolute;
   margin-left: 1030px;
-  margin-top: 913px;
+  margin-top: 911px;
 }
 h2:nth-of-type(4){
   position: absolute;
   margin-left: 1030px;
-  margin-top: 712px;
+  margin-top: 700px;
 }
+
+
+p:nth-of-type(1){
+  position: absolute;
+  margin-left: 277px;
+  margin-top: 800px;
+}
+p:nth-of-type(2){
+  position: absolute;
+  margin-left: 277px;
+  margin-top: 755px;
+}
+p:nth-of-type(3){
+  position: absolute;
+  margin-left: 1030px;
+  margin-top: 800px;
+}
+p:nth-of-type(4){
+  position: absolute;
+  margin-left: 1030px;
+  margin-top: 900px;
+}
+
+
 .greycontainer{
   position: absolute;
   width: 1600px;
