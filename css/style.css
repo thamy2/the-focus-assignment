@@ -71,9 +71,23 @@ h1{
 
 #dotfour{
   position: absolute;
-  top: 800px;
+  top: 810px;
   bottom: 700px;
   right: 710px;
+}
+
+#cursorone{
+  position: absolute;
+  top: 830px;
+  bottom: 700px;
+  right: 712px;
+}
+
+#line{
+  position: absolute;
+  top: 845px;
+  bottom: 700px;
+  right: 585px;
 }
 
 h2:nth-child(1){
