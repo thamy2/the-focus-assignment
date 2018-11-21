@@ -46,6 +46,35 @@ h1{
   margin-top: 408px;
 }
 
+#dotone{
+  position: absolute;
+  top: 604px;
+  bottom: 700px;
+  right: 710px;
+
+}
+
+#dottwo{
+  position: absolute;
+  top: 720px;
+  bottom: 700px;
+  right: 840px;
+
+}
+
+#dotthree{
+  position: absolute;
+  top: 900px;
+  bottom:700px;
+  right: 840px;
+}
+
+#dotfour{
+  position: absolute;
+  top: 800px;
+  bottom: 700px;
+  right: 710px;
+}
 
 h2:nth-child(1){
   position: absolute;
