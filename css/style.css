@@ -163,3 +163,22 @@ p:nth-of-type(4){
   margin-top: 970px;
   margin-top: 1196px
 }
+
+#video{
+  position: absolute;
+  left:800px;
+  top: 60px;
+}
+
+#videobar{
+  position: absolute;
+  left:910px;
+  top: 310px;
+
+}
+
+#play{
+  position: absolute;
+  left:820px;
+  top:310px;
+}
