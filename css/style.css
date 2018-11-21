@@ -205,19 +205,19 @@ p:nth-of-type(4){
 
 #video{
   position: absolute;
-  left:800px;
+  left:860px;
   top: 60px;
 }
 
 #videobar{
   position: absolute;
-  left:910px;
+  left:970px;
   top: 310px;
 
 }
 
 #play{
   position: absolute;
-  left:820px;
+  left:880px;
   top:310px;
 }
