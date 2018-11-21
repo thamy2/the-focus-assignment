@@ -16,7 +16,10 @@ h1{
   font-family: 'Pacifico';
   font-size: 67px;
 
+}
 
+p{
+  line-height: 150%;
 }
 
 #focusicon{
@@ -180,23 +183,23 @@ p:nth-of-type(4){
 #apple{
   position: absolute;
   left: 200px;
-  top: 190px;
+  top: 210px;
 
 }
 #android{
   position: absolute;
   left: 290px;
-  top: 190px;
+  top: 210px;
 }
 #windows{
   position: absolute;
   left:380px;
-  top:190px;
+  top:210px;
 }
 #cursortwo{
   position: absolute;
   left: 415px;
-  top: 235px;
+  top: 253px;
 
 }
 
