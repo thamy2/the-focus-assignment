@@ -14,8 +14,8 @@ h1{
   margin-left: 760px;
   margin-top: 100px;
   font-family: 'Pacifico';
-  src: url('../font/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2');
-  font-size: 70px;
+  font-size: 67px;
+
 
 }
 
@@ -27,20 +27,17 @@ h1{
 
 #topphrase{
   position: absolute;
-  margin-left: 455px;
-  margin-top: 235px;
+  left: 477px;
+  top: 230px;
   font-family: 'Raleway Light';
-  src: url('../fonts/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
-  font-size: 40px;
-
-
+  font-size: 36px;
+  width: 1000px;
 }
 
 #toparrow{
   position: absolute;
   margin-left: 770px;
   margin-top: 330px;
-
 }
 
 #iphone{
@@ -52,45 +49,66 @@ h1{
 
 h2:nth-child(1){
   position: absolute;
-  margin-left: 277px;
-  margin-top: 750px;
+  left: 270px;
+  top: 740px;
+  font-family: 'Raleway';
+  font-size: 25px;
+
 }
 h2:nth-of-type(2){
   position: absolute;
-  margin-left: 277px;
-  margin-top: 929px;
+  left: 270px;
+  top: 870px;
+  font-family: 'Raleway';
+  font-size: 25px;
 }
 h2:nth-of-type(3){
   position: absolute;
-  margin-left: 1030px;
-  margin-top: 911px;
+  left: 1030px;
+  top: 870px;
+  font-family: 'Raleway';
+    font-size: 25px;
 }
 h2:nth-of-type(4){
   position: absolute;
-  margin-left: 1030px;
-  margin-top: 700px;
+  left: 1030px;
+  top: 740px;
+  font-family: 'Raleway';
+  font-size: 25px;
 }
 
 
 p:nth-of-type(1){
   position: absolute;
-  margin-left: 277px;
-  margin-top: 800px;
+  left: 270px;
+  top: 775px;
+  width: 300px;
+  font-family: 'Raleway light';
+  font-size: 15px;
 }
 p:nth-of-type(2){
   position: absolute;
-  margin-left: 277px;
-  margin-top: 755px;
+  left: 270px;
+  top: 905px;
+  width: 300px;
+  font-family: 'Raleway light';
+  font-size: 15px;
 }
 p:nth-of-type(3){
   position: absolute;
-  margin-left: 1030px;
-  margin-top: 800px;
+  left: 1030px;
+  top: 775px;
+  width:300px;
+  font-family: 'Raleway light';
+  font-size: 15px
 }
 p:nth-of-type(4){
   position: absolute;
-  margin-left: 1030px;
-  margin-top: 900px;
+  left: 1030px;
+  top: 905px;
+  width:300px;
+  font-family: 'Raleway light';
+  font-size: 15px;
 }
 
 
