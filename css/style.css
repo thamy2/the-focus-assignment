@@ -93,7 +93,7 @@ h1{
 h2:nth-child(1){
   position: absolute;
   left: 270px;
-  top: 740px;
+  top: 780px;
   font-family: 'Raleway';
   font-size: 25px;
 
@@ -101,21 +101,21 @@ h2:nth-child(1){
 h2:nth-of-type(2){
   position: absolute;
   left: 270px;
-  top: 870px;
+  top: 940px;
   font-family: 'Raleway';
   font-size: 25px;
 }
 h2:nth-of-type(3){
   position: absolute;
   left: 1030px;
-  top: 870px;
+  top: 940px;
   font-family: 'Raleway';
     font-size: 25px;
 }
 h2:nth-of-type(4){
   position: absolute;
   left: 1030px;
-  top: 740px;
+  top: 780px;
   font-family: 'Raleway';
   font-size: 25px;
 }
@@ -124,7 +124,7 @@ h2:nth-of-type(4){
 p:nth-of-type(1){
   position: absolute;
   left: 270px;
-  top: 775px;
+  top: 820px;
   width: 300px;
   font-family: 'Raleway light';
   font-size: 15px;
@@ -132,7 +132,7 @@ p:nth-of-type(1){
 p:nth-of-type(2){
   position: absolute;
   left: 270px;
-  top: 905px;
+  top: 980px;
   width: 300px;
   font-family: 'Raleway light';
   font-size: 15px;
@@ -140,7 +140,7 @@ p:nth-of-type(2){
 p:nth-of-type(3){
   position: absolute;
   left: 1030px;
-  top: 775px;
+  top: 820px;
   width:300px;
   font-family: 'Raleway light';
   font-size: 15px
@@ -148,7 +148,7 @@ p:nth-of-type(3){
 p:nth-of-type(4){
   position: absolute;
   left: 1030px;
-  top: 905px;
+  top: 980px;
   width:300px;
   font-family: 'Raleway light';
   font-size: 15px;
