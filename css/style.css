@@ -1,351 +1,359 @@
 html {
-  background-image: url(../img/large-banner-image.png);
-  background-repeat: no-repeat;
-
-}
-div{
-  position: absolute;
-  width: 1600px;
-  margin: auto;
+   background-image: url(../img/large-banner-image.png);
+   background-repeat: no-repeat;
 }
 
-h1{
-  position: absolute;
-  left: 765px;
-  top: 110px;
-  font-family: 'Pacifico';
-  font-size: 67px;
-
+div {
+   position: absolute;
+   width: 1600px;
+   margin: auto;
 }
 
-p{
-  line-height: 150%;
-  font-family: 'Raleway Light'
+h1 {
+   position: absolute;
+   left: 765px;
+   top: 110px;
+   font-family: 'Pacifico';
+   font-size: 67px;
 }
 
-#focusicon{
-  position: absolute;
-  left: 680px;
-  top: 110px;
+p {
+   line-height: 150%;
+   font-family: 'Raleway Light'
 }
 
-#topphrase{
-  position: absolute;
-  left: 477px;
-  top: 230px;
-  font-family: 'Raleway Light';
-  font-size: 36px;
-  width: 1000px;
+#focusicon {
+   position: absolute;
+   left: 680px;
+   top: 110px;
 }
 
-#toparrow{
-  position: absolute;
-  margin-left: 770px;
-  margin-top: 330px;
+#topphrase {
+   position: absolute;
+   left: 477px;
+   top: 230px;   font-family: 'Raleway Light';
+   font-size: 36px;
+   width: 1000px;
 }
 
-#iphone{
-  position: absolute;
-  left: 575px;
-  top: 408px;
+#toparrow {
+   position: absolute;
+   margin-left: 770px;
+   margin-top: 330px;
 }
 
-#dotone{
-  position: absolute;
-  top: 604px;
-  bottom: 700px;
-  right: 710px;
+#iphone {
+   position: absolute;
+   left: 575px;
+   top: 408px;
 }
 
-#dottwo{
-  position: absolute;
-  top: 720px;
-  bottom: 700px;
-  right: 840px;
+#dotone {
+   position: absolute;
+   top: 604px;
+   bottom: 700px;
+   right: 710px;
 }
 
-#dotthree{
-  position: absolute;
-  top: 900px;
-  bottom:700px;
-  right: 840px;
+#dottwo {
+   position: absolute;
+   top: 720px;
+   bottom: 700px;
+   right: 840px;
 }
 
-#dotfour{
-  position: absolute;
-  top: 810px;
-  bottom: 700px;
-  right: 710px;
+#dotthree {
+   position: absolute;
+   top: 900px;
+   bottom: 700px;
+   right: 840px;
 }
 
-#cursorone{
-  position: absolute;
-  top: 830px;
-  bottom: 700px;
-  right: 712px;
+#dotfour {
+   position: absolute;
+   top: 810px;
+   bottom: 700px;
+   right: 710px;
 }
 
-#line{
-  position: absolute;
-  top: 845px;
-  bottom: 700px;
-  right: 585px;
+#cursorone {
+   position: absolute;
+   top: 830px;
+   bottom: 700px;
+   right: 712px;
 }
 
-h2:nth-child(1){
-  position: absolute;
-  left: 270px;
-  top: 780px;
-  font-family: 'Raleway';
-  font-size: 25px;
-
-}
-h2:nth-of-type(2){
-  position: absolute;
-  left: 270px;
-  top: 940px;
-  font-family: 'Raleway';
-  font-size: 25px;
-}
-h2:nth-of-type(3){
-  position: absolute;
-  left: 1030px;
-  top: 940px;
-  font-family: 'Raleway';
-    font-size: 25px;
-}
-h2:nth-of-type(4){
-  position: absolute;
-  left: 1030px;
-  top: 780px;
-  font-family: 'Raleway';
-  font-size: 25px;
+#line {
+   position: absolute;
+   top: 845px;
+   bottom: 700px;
+   right: 585px;
 }
 
-p:nth-of-type(1){
-  position: absolute;
-  left: 270px;
-  top: 820px;
-  width: 300px;
-  font-family: 'Raleway light';
-  font-size: 15px;
-}
-p:nth-of-type(2){
-  position: absolute;
-  left: 270px;
-  top: 980px;
-  width: 300px;
-  font-family: 'Raleway light';
-  font-size: 15px;
-}
-p:nth-of-type(3){
-  position: absolute;
-  left: 1030px;
-  top: 820px;
-  width:300px;
-  font-family: 'Raleway light';
-  font-size: 15px
-}
-p:nth-of-type(4){
-  position: absolute;
-  left: 1030px;
-  top: 980px;
-  width:300px;
-  font-family: 'Raleway light';
-  font-size: 15px;
+h2:nth-child(1) {
+   position: absolute;
+   left: 270px;
+   top: 780px;
+   font-family: 'Raleway';
+   font-size: 25px;
 }
 
-
-.greycontainer{
-  position: absolute;
-  width: 1600px;
-  height: 422px;
-  background-color: rgb(227, 227, 227);
-  margin-top: 970px;
-  margin-top: 1196px
+h2:nth-of-type(2) {
+   position: absolute;
+   left: 270px;
+   top: 940px;
+   font-family: 'Raleway';
+   font-size: 25px;
 }
 
-.greycontainer h2{
-  position: absolute;
-  top: 60px;
-  left:200px;
-}
-strong{
-  font-family: 'helvetica Nueve'
-}
-
-.greycontainer p{
-  position: absolute;
-  top: 100px;
-  left: 200px;
-  width: 500px;
+h2:nth-of-type(3) {
+   position: absolute;
+   left: 1030px;
+   top: 940px;
+   font-family: 'Raleway';
+   font-size: 25px;
 }
 
-#apple{
-  position: absolute;
-  left: 200px;
-  top: 210px;
+h2:nth-of-type(4) {
+   position: absolute;
+   left: 1030px;
+   top: 780px;
+   font-family: 'Raleway';
+   font-size: 25px;
 }
 
-#android{
-  position: absolute;
-  left: 290px;
-  top: 210px;
+p:nth-of-type(1) {
+   position: absolute;
+   left: 270px;
+   top: 820px;
+   width: 300px;
+   font-family: 'Raleway light';
+   font-size: 15px;
 }
 
-#windows{
-  position: absolute;
-  left:380px;
-  top:210px;
+p:nth-of-type(2) {
+   position: absolute;
+   left: 270px;
+   top: 980px;
+   width: 300px;
+   font-family: 'Raleway light';
+   font-size: 15px;
 }
 
-#cursortwo{
-  position: absolute;
-  left: 415px;
-  top: 253px;
+p:nth-of-type(3) {
+   position: absolute;
+   left: 1030px;
+   top: 820px;
+   width: 300px;
+   font-family: 'Raleway light';
+   font-size: 15px;
 }
 
-#video{
-  position: absolute;
-  left:860px;
-  top: 60px;
+p:nth-of-type(4) {
+   position: absolute;
+   left: 1030px;
+   top: 980px;
+   width: 300px;
+   font-family: 'Raleway light';
+   font-size: 15px;
 }
 
-#videobar{
-  position: absolute;
-  left:970px;
-  top: 310px;
+.greycontainer {
+   position: absolute;
+   width: 1600px;
+   height: 422px;
+   background-color: rgb(227, 227, 227);
+   margin-top: 970px;
 }
 
-#play{
-  position: absolute;
-  left:880px;
-  top:310px;
+.greycontainer h2 {
+   position: absolute;
+   top: 60px;
+   left: 200px;
 }
 
-.whitecontainer p:nth-of-type(1){
-  position: absolute;
-  top: 1700px;
-  left: 350px;
-  width: 1010px;
-  font-size: 30px;
+strong {
+   font-family: 'helvetica Nueve'
 }
 
-.whitecontainer p:nth-last-of-type(2){
-  position: absolute;
-  top: 1760px;
-  left: 800px;
-  width: 1000px;
-  font-size: 15px;
+.greycontainer p {
+   position: absolute;
+   top: 100px;
+   left: 200px;
+   width: 500px;
 }
 
-#people{
-  position: absolute;
-  top: 1840px;
+#apple {
+   position: absolute;
+   left: 200px;
+   top: 210px;
 }
 
-#person{
-  position: absolute;
-  top: 1920px;
-  left: 915px;
+#android {
+   position: absolute;
+   left: 290px;
+   top: 210px;
 }
 
-#cursorthree{
-  position: absolute;
-  top: 1975px;
-  left:920px;
+#windows {
+   position: absolute;
+   left: 380px;
+   top: 210px;
 }
 
-.whitecontainer h2:nth-of-type(1){
-  position: absolute;
-  top: 2230px;
-  left: 670px;
-  font-size: 25px;
+#cursortwo {
+   position: absolute;
+   left: 415px;
+   top: 253px;
 }
 
-.whitecontainer p:nth-of-type(3){
-  position: absolute;
-  top: 2280px;
-  left:570px;
-  width: 1000px;
+#video {
+   position: absolute;
+   left: 860px;
+   top: 60px;
 }
 
-#twitter{
-  position: absolute;
-  top: 2330px;
-  left:670px;
-}
-#facebook{
-  position: absolute;
-  top: 2330px;
-  left:715px;
+#videobar {
+   position: absolute;
+   left: 970px;
+   top: 310px;
 }
 
-#pinterest{
-  position: absolute;
-  top: 2330px;
-  left:760px;
+#play {
+   position: absolute;
+   left: 880px;
+   top: 310px;
 }
 
-#google{
-  position: absolute;
-  top: 2330px;
-  left:805px;
+.whitecontainer p:nth-of-type(1) {
+   position: absolute;
+   top: 1700px;
+   left: 350px;
+   width: 1010px;
+   font-size: 30px;
 }
 
-#linkedin{
-  position: absolute;
-  top: 2330px;
-  left:850px;
+.whitecontainer p:nth-last-of-type(2) {
+   position: absolute;
+   top: 1760px;
+   left: 800px;
+   width: 1000px;
+   font-size: 15px;
 }
 
-#youtube{
-  position: absolute;
-  top: 2330px;
-  left:895px;
+#people {
+   position: absolute;
+   top: 1840px;
 }
 
-#cursorfour{
-  position: absolute;
-  top: 2350px;
-  left:777px;
-}
-.bottomcontainer{
-  position: absolute;
-  width: 1600px;
-  height: 130px;
-  background-color: rgb(227, 227, 227);
-  top: 2430px;
-
+#person {
+   position: absolute;
+   top: 1920px;
+   left: 915px;
 }
 
-.bottomcontainer p:nth-of-type(1){
-  position: absolute;
-  top: 60px;
-  left:500px;
+#cursorthree {
+   position: absolute;
+   top: 1975px;
+   left: 920px;
 }
-.bottomcontainer p:nth-of-type(2){
-  position: absolute;
-  top: 60px;
-  left:570px;
+
+.whitecontainer h2:nth-of-type(1) {
+   position: absolute;
+   top: 2230px;
+   left: 670px;
+   font-size: 25px;
 }
-.bottomcontainer p:nth-of-type(3){
-  position: absolute;
-  top: 60px;
-  left:655px;
+
+.whitecontainer p:nth-of-type(3) {
+   position: absolute;
+   top: 2280px;
+   left: 570px;
+   width: 1000px;
 }
-.bottomcontainer p:nth-of-type(4){
-  position: absolute;
-  top: 60px;
-  left:707px;
+
+#twitter {
+   position: absolute;
+   top: 2330px;
+   left: 670px;
 }
-.bottomcontainer p:nth-of-type(5){
-  position: absolute;
-  top: 60px;
-  left:760px;
+
+#facebook {
+   position: absolute;
+   top: 2330px;
+   left: 715px;
 }
-.bottomcontainer p:nth-of-type(6){
-  position: absolute;
-  top: 60px;
-  left:830px;
+
+#pinterest {
+   position: absolute;
+   top: 2330px;
+   left: 760px;
+}
+
+#google {
+   position: absolute;
+   top: 2330px;
+   left: 805px;
+}
+
+#linkedin {
+   position: absolute;
+   top: 2330px;
+   left: 850px;
+}
+
+#youtube {
+   position: absolute;
+   top: 2330px;
+   left: 895px;
+}
+
+#cursorfour {
+   position: absolute;
+   top: 2350px;
+   left: 777px;
+}
+
+.bottomcontainer {
+   position: absolute;
+   width: 1600px;
+   height: 130px;
+   background-color: rgb(227, 227, 227);
+   top: 2430px;
+}
+
+.bottomcontainer p:nth-of-type(1) {
+   position: absolute;
+   top: 60px;
+   left: 500px;
+}
+
+.bottomcontainer p:nth-of-type(2) {
+   position: absolute;
+   top: 60px;
+   left: 570px;
+}
+
+.bottomcontainer p:nth-of-type(3) {
+   position: absolute;
+   top: 60px;
+   left: 655px;
+}
+
+.bottomcontainer p:nth-of-type(4) {
+   position: absolute;
+   top: 60px;
+   left: 707px;
+}
+
+.bottomcontainer p:nth-of-type(5) {
+   position: absolute;
+   top: 60px;
+   left: 760px;
+}
+
+.bottomcontainer p:nth-of-type(6) {
+   position: absolute;
+   top: 60px;
+   left: 830px;
 }
