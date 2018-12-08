@@ -3,6 +3,11 @@ html {
    background-repeat: no-repeat;
 }
 
+#example {
+   position:fixed;
+   opacity: 0.5;
+}
+
 div {
    position: absolute;
    width: 1600px;
@@ -31,7 +36,7 @@ p {
 #topphrase {
    position: absolute;
    left: 477px;
-   top: 230px;   font-family: 'Raleway Light';
+   top: 230px; font-family: 'Raleway Light';
    font-size: 36px;
    width: 1000px;
 }
@@ -44,8 +49,8 @@ p {
 
 #iphone {
    position: absolute;
-   left: 575px;
-   top: 408px;
+   left: 570px;
+   top: 400px;
 }
 
 #dotone {
