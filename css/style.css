@@ -3,11 +3,6 @@ html {
    background-repeat: no-repeat;
 }
 
-#example {
-   position:fixed;
-   opacity: 0.5;
-}
-
 div {
    position: absolute;
    width: 1600px;
@@ -76,21 +71,21 @@ p {
 
 #dotfour {
    position: absolute;
-   top: 810px;
+   top: 805px;
    bottom: 700px;
    right: 710px;
 }
 
 #cursorone {
    position: absolute;
-   top: 830px;
+   top: 822px;
    bottom: 700px;
    right: 712px;
 }
 
 #line {
    position: absolute;
-   top: 845px;
+   top: 830px;
    bottom: 700px;
    right: 585px;
 }
@@ -98,69 +93,69 @@ p {
 h2:nth-child(1) {
    position: absolute;
    left: 270px;
-   top: 780px;
+   top: 755px;
    font-family: 'Raleway';
-   font-size: 25px;
+   font-size: 22px;
 }
 
 h2:nth-of-type(2) {
    position: absolute;
    left: 270px;
-   top: 940px;
+   top: 925px;
    font-family: 'Raleway';
-   font-size: 25px;
+   font-size: 22px;
 }
 
 h2:nth-of-type(3) {
    position: absolute;
    left: 1030px;
-   top: 940px;
+   top: 925px;
    font-family: 'Raleway';
-   font-size: 25px;
+   font-size: 22px;
 }
 
 h2:nth-of-type(4) {
    position: absolute;
    left: 1030px;
-   top: 780px;
+   top: 755px;
    font-family: 'Raleway';
-   font-size: 25px;
+   font-size: 22px;
 }
 
 p:nth-of-type(1) {
    position: absolute;
    left: 270px;
-   top: 820px;
-   width: 300px;
+   top: 800px;
+   width: 350px;
    font-family: 'Raleway light';
-   font-size: 15px;
+   font-size: 10px;
 }
 
 p:nth-of-type(2) {
    position: absolute;
    left: 270px;
-   top: 980px;
-   width: 300px;
+   top: 970px;
+   width: 350px;
    font-family: 'Raleway light';
-   font-size: 15px;
+   font-size: 10px;
 }
 
 p:nth-of-type(3) {
    position: absolute;
    left: 1030px;
-   top: 820px;
-   width: 300px;
+   top: 800px;
+   width: 350px;
    font-family: 'Raleway light';
-   font-size: 15px;
+   font-size: 10px;
 }
 
 p:nth-of-type(4) {
    position: absolute;
    left: 1030px;
-   top: 980px;
-   width: 300px;
+   top: 970px;
+   width: 350px;
    font-family: 'Raleway light';
-   font-size: 15px;
+   font-size: 10px;
 }
 
 .greycontainer {
@@ -168,7 +163,7 @@ p:nth-of-type(4) {
    width: 1600px;
    height: 422px;
    background-color: rgb(227, 227, 227);
-   margin-top: 970px;
+   top: 1197px;
 }
 
 .greycontainer h2 {
@@ -191,25 +186,25 @@ strong {
 #apple {
    position: absolute;
    left: 200px;
-   top: 210px;
+   top: 240px;
 }
 
 #android {
    position: absolute;
    left: 290px;
-   top: 210px;
+   top: 240px;
 }
 
 #windows {
    position: absolute;
    left: 380px;
-   top: 210px;
+   top: 240px;
 }
 
 #cursortwo {
    position: absolute;
    left: 415px;
-   top: 253px;
+   top: 283px;
 }
 
 #video {
@@ -232,90 +227,91 @@ strong {
 
 .whitecontainer p:nth-of-type(1) {
    position: absolute;
-   top: 1700px;
+   top: 1675px;
    left: 350px;
    width: 1010px;
-   font-size: 30px;
+   font-size: 25px;
 }
 
 .whitecontainer p:nth-last-of-type(2) {
    position: absolute;
-   top: 1760px;
-   left: 800px;
+   top: 1725px;
+   left: 725px;
    width: 1000px;
-   font-size: 15px;
+   font-size: 9px;
 }
 
 #people {
    position: absolute;
-   top: 1840px;
+   top: 1800px;
 }
 
 #person {
    position: absolute;
-   top: 1920px;
+   top: 1880px;
    left: 915px;
 }
 
 #cursorthree {
    position: absolute;
-   top: 1975px;
+   top: 1940px;
    left: 920px;
 }
 
 .whitecontainer h2:nth-of-type(1) {
    position: absolute;
-   top: 2230px;
+   top: 2176px;
    left: 670px;
    font-size: 25px;
 }
 
 .whitecontainer p:nth-of-type(3) {
    position: absolute;
-   top: 2280px;
-   left: 570px;
+   top: 2220px;
+   left: 552px;
    width: 1000px;
+   font-size: 18px;
 }
 
 #twitter {
    position: absolute;
-   top: 2330px;
-   left: 670px;
+   top: 2266px;
+   left: 671px;
 }
 
 #facebook {
    position: absolute;
-   top: 2330px;
+   top: 2266px;
    left: 715px;
 }
 
 #pinterest {
    position: absolute;
-   top: 2330px;
+   top: 2266px;
    left: 760px;
 }
 
 #google {
    position: absolute;
-   top: 2330px;
-   left: 805px;
+   top: 2266px;
+   left: 802px;
 }
 
 #linkedin {
    position: absolute;
-   top: 2330px;
+   top: 2266px;
    left: 850px;
 }
 
 #youtube {
    position: absolute;
-   top: 2330px;
-   left: 895px;
+   top: 2266px;
+   left: 894px;
 }
 
 #cursorfour {
    position: absolute;
-   top: 2350px;
+   top: 2286px;
    left: 777px;
 }
 
@@ -324,41 +320,41 @@ strong {
    width: 1600px;
    height: 130px;
    background-color: rgb(227, 227, 227);
-   top: 2430px;
+   top: 2362px;
 }
 
 .bottomcontainer p:nth-of-type(1) {
    position: absolute;
    top: 60px;
-   left: 500px;
+   left: 520px;
 }
 
 .bottomcontainer p:nth-of-type(2) {
    position: absolute;
    top: 60px;
-   left: 570px;
+   left: 613px;
 }
 
 .bottomcontainer p:nth-of-type(3) {
    position: absolute;
    top: 60px;
-   left: 655px;
+   left: 723px;
 }
 
 .bottomcontainer p:nth-of-type(4) {
    position: absolute;
    top: 60px;
-   left: 707px;
+   left: 795px;
 }
 
 .bottomcontainer p:nth-of-type(5) {
    position: absolute;
    top: 60px;
-   left: 760px;
+   left: 870px;
 }
 
 .bottomcontainer p:nth-of-type(6) {
    position: absolute;
    top: 60px;
-   left: 830px;
+   left: 967px;
 }
